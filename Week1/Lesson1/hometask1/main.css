@@ -1,0 +1,19 @@
+.btn1 {
+    color: white;
+    background-color: green;
+}
+.btn2 {
+    color: white;
+    background-color: black;
+}
+.btn3 {
+    color: white;
+    background-color: red;
+}
+.box {
+    text-align: center;
+}
+.h {
+    text-align: center;
+    margin-top: 250px;
+}
